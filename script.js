@@ -51,4 +51,4 @@
  		else console.log("В сутках 24 часа!")	;
  }
 
-workTime(0);
+workTime(5);
